@@ -24,6 +24,7 @@
 		BE1E8D8F1F69E525006A7FE1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BE1E8D911F69E525006A7FE1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BE1E8D971F69F2F2006A7FE1 /* TesteSlicing.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TesteSlicing.xib; sourceTree = "<group>"; };
+		BE1E8D991F69F42F006A7FE1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		BE1E8D791F69E525006A7FE1 = {
 			isa = PBXGroup;
 			children = (
+				BE1E8D991F69F42F006A7FE1 /* README.md */,
 				BE1E8D841F69E525006A7FE1 /* AulaSlicing */,
 				BE1E8D831F69E525006A7FE1 /* Products */,
 			);
